@@ -13,6 +13,12 @@ privacy:
 
 The GitHub Enterprise provider manages enterprise teams and SCIM group lookups.
 
+## Warning
+
+This provider was vibe-coded and was intended for our own internal testing purposes only. We are in no way affiliated
+with GitHub, and take no responsibility for the correctness of the implementation, or damage this provider may cause
+within your GitHub Enterprise environment.
+
 ## Usage
 
 ```terraform

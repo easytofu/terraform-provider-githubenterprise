@@ -1,0 +1,1 @@
+terraform import githubenterprise_enterprise_team_member.example example-enterprise/example-team/octocat

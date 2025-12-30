@@ -1,0 +1,1 @@
+terraform import githubenterprise_enterprise_team_organization.example example-enterprise/example-team/example-org
